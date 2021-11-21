@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋, My name is Shova Khatun
+### Hi there 👋, My name is Shova Khatun.
 #### I am a Web developer
 ![I am a Web developer](https://pbs.twimg.com/profile_banners/1462065006502051840/1637427145/600x200)
 
