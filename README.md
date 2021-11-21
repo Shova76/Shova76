@@ -2,15 +2,15 @@
 
 
 ### Hi there 👋, My name is Shova Khatun.
-#### I am a Web developer
+#### I am a Web developer.
 ![I am a Web developer](https://pbs.twimg.com/profile_banners/1462065006502051840/1637427145/600x200)
 
 Hey, I'm shova. I am a Web Designer and developer. I am very passionate and dedicated to my work.
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS.
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Programing Language 
+- 🌱 I’m currently learning Programing Language .
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shova76)  [<img 
